@@ -1,6 +1,6 @@
 cask "brainmatter" do
-  version "1.1.0"
-  sha256 "3601f0b07b2a0d1dfb25cd2bd441ca439c7218f9d4558db1f39760f884ea8e2b"
+  version "1.2.0"
+  sha256 "2f772f4b26ef236e827c23728e1386fda16cb0e8a39907c66e03b81c766800db"
 
   url "https://github.com/Kiritosky/brainmatter/releases/download/v#{version}/Brainmatter_#{version}_aarch64.dmg"
   name "Brainmatter"
